@@ -9,7 +9,7 @@
  */
 function calculateClicked() {
   document.getElementById("area").innerHTML =
-    "<p>The Area is: " + 27 * 52 + "</p>"
+    "<p>The Area is: " + 27 * 52 + " cm²</p>"
   document.getElementById("perimeter").innerHTML =
-    "<p>The Perimeter is: " + 2 * (27 + 52) + "</p>"
+    "<p>The Perimeter is: " + 2 * (27 + 52) + " cm</p>"
 }
